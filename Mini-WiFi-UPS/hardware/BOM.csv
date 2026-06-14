@@ -1,0 +1,4 @@
+Component,Specification
+Arduino Nano,ATmega328P
+Battery,18650 Li-ion
+DC-DC Converter,5V Output
